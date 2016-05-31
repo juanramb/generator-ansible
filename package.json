@@ -15,7 +15,7 @@
     "yeoman-generator": "0.22.x"
   },
   "peerDependencies": {
-    "generator-license": "3.x"
+    "generator-license": "3.x.x"
   },
   "author": "Will Price",
   "license": "MIT",
